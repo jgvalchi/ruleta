@@ -1,0 +1,22 @@
+ruleta:
+   *oprimir boton girar.
+   *esperar a que termine y ver 
+     la imagen del premio.
+
+admin:
+    *para poder entrar a admin
+      se debe escribir /admin.php
+      este redireccionara al login,
+      y despues pasara a la pagina
+      de administrador.
+
+Subir imagenes y descripcion:
+      *oprimir el boton "cargar" para 
+       seleccionar una imagen, escribir
+       el nombre del premio y oprimir
+       el boton "cargar".
+
+Borrar imagenes:
+     *oprimir el boton "borrar" que
+       se encuentra arriba de cada
+       imagen
